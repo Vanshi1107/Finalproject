@@ -76,6 +76,4 @@ The translation is: J'apprends Python.
 
 This project is open-source and free to use.
 
----
 
-If you want, I can also make a **shorter, more aesthetic version** of the README that’s Instagram/post-friendly. It would be very concise and neat. Do you want me to do that?
