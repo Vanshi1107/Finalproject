@@ -74,6 +74,7 @@ The translation is: J'apprends Python.
 
 ## License
 
-This project is open-source and free to use.
+This project is open-source and free to use. 
+Happy for suggestions in for any feature
 
 
